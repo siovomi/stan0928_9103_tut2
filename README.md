@@ -12,7 +12,7 @@ In the **Starry Night** example, **the flowing lines** are not just a visual eff
 
 ### Part 2: Coding Technique Exploration
 
-The coding technique I discovered integrates a **particle system** with **Perlin noise**. This approach harnesses a particle system in tandem with Perlin noise to craft motion patterns that echo natural phenomena. By tapping into the `noise()` function, the code spawns a non-repetitive, continuous flow field, guiding particles in a manner akin to fluid dynamics. This method mirrors the lively and spirited movement evident in the "Starry Night" example. As particles trace their trajectories, they weave intricate patterns, infusing life into the canvas.
+The coding technique I discovered integrates a **Particle System** with **Perlin Noise**. This approach harnesses a particle system in tandem with Perlin noise to craft motion patterns that echo natural phenomena. By tapping into the `noise()` function, the code spawns a non-repetitive, continuous flow field, guiding particles in a manner akin to fluid dynamics. This method mirrors the lively and spirited movement evident in the "Starry Night" example. As particles trace their trajectories, they weave intricate patterns, infusing life into the canvas.
 
 **Screenshots of Coding Technique**
 
