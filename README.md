@@ -20,6 +20,6 @@ The coding technique I discovered integrates a **particle system** with **Perlin
 ![CodingTechnique_2](week8quiz_image/IDEA9103_Week8Quiz_5.jpg)
 ![CodingTechnique_3](week8quiz_image/IDEA9103_Week8Quiz_6.jpg)
 
-[Example Code](https://github.com/CodingTrain/website-archive/tree/main/CodingChallenges/CC_024_PerlinNoiseFlowField/P5)
+[Example Code Link](https://github.com/CodingTrain/website-archive/tree/main/CodingChallenges/CC_024_PerlinNoiseFlowField/P5)
 
-[Example Video](https://www.youtube.com/watch?v=sor1nwNIP9A)
+[Example Video Link](https://www.youtube.com/watch?v=sor1nwNIP9A)
